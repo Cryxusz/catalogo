@@ -1,0 +1,32 @@
+{
+    "perfumes": [
+        {
+            "id": 1,
+            "name": "Perfume 1",
+            "description": "Una fragancia floral con toques de vainilla.",
+            "price": 50.00,
+            "image": "perfume1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Perfume 2",
+            "description": "Una fragancia cítrica y fresca.",
+            "price": 45.00,
+            "image": "perfume2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Perfume 3",
+            "description": "Una fragancia amaderada con toques de especias.",
+            "price": 60.00,
+            "image": "perfume3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Perfume 4",
+            "description": "Una fragancia dulce y afrutada.",
+            "price": 55.00,
+            "image": "perfume4.jpg"
+        }
+    ]
+}
